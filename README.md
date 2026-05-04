@@ -3,14 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-
-<p align="center">
-  <a href="https://github.com/Jhenefie">
-    <img src="https://komarev.com/ghpvc/?username=Jhenefie&label=Visitas+ao+perfil&color=58A6FF&style=flat" alt="Visitas" />
-  </a>
-</p>
-
 ---
 
 ### 👩‍💻 Sobre mim
