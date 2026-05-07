@@ -47,20 +47,9 @@
 
 ### 📊 Estatísticas
 
-<img
-     align="left"
-     alt="GitHub Stats"
-     height="200"
-     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://github-readme-                    stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
- />    
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
- <img
-     align="left"
-     alt="GitHub Stats"
-     height="200"
-     style="padding-right: 10px;"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenefie&theme=tokyonight&layout=compact&custom_title=Tecnologia&langs_count=7"
- />   
+<br/>
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenefie&theme=tokyonight&layout=compact"/>
 
