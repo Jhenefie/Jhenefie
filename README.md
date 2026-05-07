@@ -46,14 +46,21 @@
 ---
 
 ### 📊 Estatísticas
-<div align="center">
- 
- 
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jhenefie&theme=tokyonight&hide_border=true&locale=pt_BR" 
-    alt="GitHub Streak"
-  />
+<img
+     align="left"
+     alt="GitHub Stats"
+     height="200"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://github-readme-                    stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+ />    
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ <img
+     align="left"
+     alt="GitHub Stats"
+     height="200"
+     style="padding-right: 10px;"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenefie&theme=tokyonight&layout=compact&custom_title=Tecnologia&langs_count=7"
+ />   
 
