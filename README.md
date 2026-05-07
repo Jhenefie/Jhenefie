@@ -47,8 +47,7 @@
 
 ### 📊 Estatísticas
 
-# 📊 Estatísticas
-
-![Estatísticas de Jhenefie](https://github-readme-stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenefie&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhenefie&theme=tokyonight" alt="Streak" />
+</div>
