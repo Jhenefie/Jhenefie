@@ -47,9 +47,17 @@
 
 ### 📊 Estatísticas
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight"/>
-
-<br/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenefie&theme=tokyonight&layout=compact"/>
+<div align="center">
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
+  />
+  
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenefie&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    alt="Top Langs" 
+  />
+</div>
 
