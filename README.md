@@ -46,8 +46,16 @@
 ---
 
 ### 📊 Estatísticas
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhenefie&theme=tokyonight" alt="Streak" />
+  <img 
+    height="180" 
+    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jhenefie&show_icons=true&theme=tokyonight&locale=pt-br" 
+    alt="Stats" 
+  />
+  
+  <img 
+    height="180" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jhenefie&theme=tokyonight" 
+    alt="Streak" 
+  />
 </div>
